@@ -1,0 +1,7 @@
+可以调通,支持解析mmp,以及根据内容生成mpp
+jacob-1.14.3-x64.dll需要放C:\Windows\System32 下，否则生成mpp会报错
+
+
+https://blog.csdn.net/qq_25385555/article/details/65635477
+
+其他 https://www.cnblogs.com/monco/p/7485513.html
